@@ -37,6 +37,7 @@ _____________________________________________________________
 - **MUST lint after major changes** and fix all errors before proceeding
 - **ALWAYS diagnose root causes** of errors instead of attempting random solutions
 - **NEVER refactor without explicit instruction** - maintain existing architecture unless directed otherwise
+- **ALWAYS understand codebase and follow existing patterns**
 
 ### Technical Compliance
 
